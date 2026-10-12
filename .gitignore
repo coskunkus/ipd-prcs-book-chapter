@@ -1,0 +1,15 @@
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+results/
+figures/
+output/
+*.pdf
+*.eps
+*.aux
+*.log
+*.bbl
+*.blg
+*.out
+*.synctex.gz
